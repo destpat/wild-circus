@@ -121,6 +121,7 @@ nav a:hover
 	position: relative;
 	bottom: 70%;
 	left: 45%;
+	text-align: center;
 }
 /*Placement icon*/
 .icon
